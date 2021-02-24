@@ -16,3 +16,6 @@ console.log(stuffINeed.niceToHaves);
 console.log("--------------------------");
 console.log("Nonessentials");
 console.log(stuffINeed.nonessentials);
+
+
+

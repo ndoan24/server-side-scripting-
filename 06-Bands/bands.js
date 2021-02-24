@@ -18,3 +18,13 @@
 //   A punk band is Green Day
 //   A rap band is Run DMC
 //   A classic band is Led Zeppelin
+
+
+var bands =
+  {
+   punk: 'Green Day',
+   rap: 'Run DMC',
+   classic: 'Led Zeppelin'
+ }
+ 
+module.exports = bands;
