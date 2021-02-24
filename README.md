@@ -16,9 +16,9 @@ To show understanding of introduction to node.js
 ## **Target Market**: 
 Screenshots of Proof of learning
 
-## **04-Calculator:**:
+<img src-:images/04-Calculator-Code)
 
-
+![](images/github-04-Calculator-Code)
 
 ## **Technologies to be used:**:
 * JavaScript
