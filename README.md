@@ -15,17 +15,17 @@ To show understanding of introduction to node.js
 Screenshots of Proof of learning
 
 
-![GitHub Logo](images/04-Calculator Code.png)
+![GitHub Logo](/images/04-Calculator Code.png)
 
 
-![GitHub Logo](images/05-Modularization ESS JS Code.png)
-![GitHub Logo](images/05-Modularization RUN JS Code.png)
-![GitHub Logo](images/05-Modularization Output.png) 
+![GitHub Logo](/images/05-Modularization ESS JS Code.png)
+![GitHub Logo](/images/05-Modularization RUN JS Code.png)
+![GitHub Logo](/images/05-Modularization Output.png) 
 
-![GitHub Logo](images/06-Bands RUN JS Code.png) 
-![GitHub Logo](images/06-Bands JS Code.png)
-![GitHub Logo](images/06-Bands JS Code.png)
-![GitHub Logo](images/06-Bands Output.png)
+![GitHub Logo](/images/06-Bands RUN JS Code.png) 
+![GitHub Logo](/images/06-Bands JS Code.png)
+![GitHub Logo](/images/06-Bands JS Code.png)
+![GitHub Logo](/images/06-Bands Output.png)
 
 
 
