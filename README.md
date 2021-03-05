@@ -23,9 +23,6 @@ Format: ![Alt Text](url)
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 
 
 ![GitHub Logo](/images/05-Modularization ESS JS Code.png)
