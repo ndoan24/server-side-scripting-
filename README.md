@@ -17,6 +17,16 @@ Screenshots of Proof of learning
 ![GitHub Logo](/images/04-Calculator Code.png)
 Format: ![Alt Text](url)
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 
 ![GitHub Logo](/images/05-Modularization ESS JS Code.png)
 ![GitHub Logo](/images/05-Modularization RUN JS Code.png)
