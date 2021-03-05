@@ -14,8 +14,13 @@ To show understanding of introduction to node.js
 ## **Target Market**: 
 Screenshots of Proof of learning
 
+
+![GitHub Logo](/images/04-Calculator Code.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Code.png) 
+
+
 ![GitHub Logo](/images/04-CalculatorCode.png)
-https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Code.png
+
 
 
 ![GitHub Logo](/images/04-CalculatorOutput.png)
