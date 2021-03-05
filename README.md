@@ -18,26 +18,29 @@ Screenshots of Proof of learning
 ![GitHub Logo](/images/04-Calculator Code.png)
 Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Code.png)
 
-
-
 ![GitHub Logo](/images/04-Calculator Output.png)
 Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Output.png)
 
 
-05-Modularization ESS JS Code.png
+![GitHub Logo](/images/05-Modularization ESS JS Code.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/05-Modularization%20ESS%20JS%20Code.png)
 
-05-Modularization Output.png
+![GitHub Logo](/images/05-Modularization Output.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/05-Modularization%20Output.png)
 
-05-Modularization RUN JS Code.png
-
-06-Bands JS Code.png
-
-06-Bands Output.png
-
-06-Bands RUN JS Code.png
+![GitHub Logo](/images/05-Modularization RUN JS Code.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/05-Modularization%20RUN%20JS%20Code.png)
 
 
 
+![GitHub Logo](/images/06-Bands RUN JS Code.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/06-Bands%20RUN%20JS%20Code.png)
+
+![GitHub Logo](/images/06-Bands JS Code.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/06-Bands%20JS%20Code.png)
+
+![GitHub Logo](/images/06-Bands Output.png)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/06-Bands%20Output.png)
 
 
 
