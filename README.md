@@ -21,7 +21,7 @@ Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/
 
 
 ![GitHub Logo](/images/04-Calculator Output.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Output.png)
 
 
 05-Modularization ESS JS Code.png
