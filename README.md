@@ -15,12 +15,10 @@ To show understanding of introduction to node.js
 Screenshots of Proof of learning
 
 ![GitHub Logo](/images/04-Calculator Code.png)
+
+
+![GitHub Logo](/images/04-Calculator Output.png)
 Format: ![Alt Text](url)
-
-
-
-
-
 
 
 ## **Technologies to be used:**:
