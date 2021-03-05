@@ -1,18 +1,3 @@
-# Server-Side-Scripting 
-
-![](images/04-Calculator Code.png)
-![](images/04-Calculator Output.png) 
-
-![](images/05-Modularization ESS JS Code.png)
-![](images/05-Modularization RUN JS Code.png)
-![](images/05-Modularization Output.png) 
-
-![](images/06-Bands RUN JS Code.png) 
-![](images/06-Bands JS Code.png)
-![](images/06-Bands JS Code.png)
-![](images/06-Bands Output.png)
-
-
 ##**Overview**:
 <br>
 
