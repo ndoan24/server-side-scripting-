@@ -15,6 +15,7 @@ To show understanding of introduction to node.js
 Screenshots of Proof of learning
 
 ![GitHub Logo](/images/04-CalculatorCode.png)
+https://github.com/ndoan24/server-side-scripting-/blob/main/images/04-Calculator%20Code.png
 
 
 ![GitHub Logo](/images/04-CalculatorOutput.png)
